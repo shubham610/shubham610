@@ -6,7 +6,7 @@
   align="right"  src="https://i.pinimg.com/originals/95/dd/d9/95ddd9bc9130522efded78f6764dfb60.gif"
 />
 
-<p> I'm Shubham Bansal. I'm a final year grad @UIET-KUK. I am passionate about Full Stack development, Algortihmic Problem Solving. 
+<p> I'm Shubham Bansal. I'm an Engineering graduate from UIET-KUK. I am passionate about Full Stack development, Algortihmic Problem Solving. 
 </p>
 
 ### More about me:
